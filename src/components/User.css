@@ -1,0 +1,22 @@
+.user{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+.User img {
+    width: 350px;
+    height: 350px;
+  }
+.User button {
+    cursor: pointer;
+    width: 70%;
+    background-color: cadetblue;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+  }
